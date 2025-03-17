@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Main {
+//    Create a function that converts US dollars (USD)
+//    to Chinese Yuan (CNY) .
+//    The input is the amount of USD as an integer, and the output should be a string
+//    that states the amount of Yuan followed by 'Chinese Yuan'
     public static void main(String[] args) {
         System.out.println("    j     A          v        v      A    ");
         System.out.println("    j    A  A         v     v       A  A   ");
